@@ -1,0 +1,10 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+mysqlclient
+Pillow
+python-dotenv
+reportlab
+pandas
+openpyxl
